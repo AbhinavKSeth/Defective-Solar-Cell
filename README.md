@@ -8,7 +8,7 @@ A VGG-19 architecture was used for the task at hand, which was followed by a ful
 # Dataset 
 A dataset of 280 solar modules was used. From the large solar modules, individual solar cells were extracted and pre-processed. A total of 2788 images consisting good cells and defective cells. The dataset was further divided into 1952 and 836 images as train and validation dataset.
 ###### EL Image of solar module:
-![ImG of modules](https://github.com/AbhinavKSeth/Defective-Solar-Cell/blob/master/sample_input1.jpg)
+![ImG of modules](https://github.com/AbhinavKSeth/Defective-Solar-Cell/blob/master/01.JPG_%20(3).jpg)
 
 ###### EL Image of procesed solar cells:
 Processed solar cell 1 | Processed solar cell 2
